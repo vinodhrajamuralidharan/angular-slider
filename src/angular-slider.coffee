@@ -3,7 +3,7 @@
 MODULE_NAME = 'uiSlider'
 SLIDER_TAG  = 'slider'
 
-# HELPER FUNCTIONS
+# HELPER FUNCTIONS FOR SLIDER
 
 angularize      = (element) -> angular.element element
 pixelize        = (position) -> "#{position}px"
